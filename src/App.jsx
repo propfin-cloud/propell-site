@@ -6,7 +6,7 @@ export default function PropellLandingPage() {
         <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-4">
           <div className="flex items-center gap-3">
             <img
-              src="/assets/propell-logo.png"
+              src="assets/propell-logo.png"
               alt="Propell Logo"
               className="h-10 w-10 object-contain"
             />
@@ -69,7 +69,7 @@ export default function PropellLandingPage() {
             <div className="absolute -right-10 top-10 h-72 w-72 rounded-full bg-[#E8D9B8] blur-3xl opacity-40" />
 
             <img
-              src="/assets/propell-banner.png"
+              src="assets/propell-banner.png"
               alt="Propell Banner"
               className="relative w-full max-w-2xl rounded-[32px] border border-[#E7E0D2] bg-white shadow-xl"
             />
@@ -109,7 +109,7 @@ export default function PropellLandingPage() {
               </p>
 
               <img
-                src="/assets/create-transaction.png"
+                src="assets/create-transaction.png"
                 alt="Create Transaction"
                 className="mt-8 w-full max-w-sm rounded-[28px] border border-[#E7E0D2] shadow-lg"
               />
@@ -130,7 +130,7 @@ export default function PropellLandingPage() {
               </p>
 
               <img
-                src="/assets/agreement-preview.png"
+                src="assets/agreement-preview.png"
                 alt="Agreement Preview"
                 className="mt-8 w-full max-w-sm rounded-[28px] border border-[#E7E0D2] shadow-lg"
               />
@@ -152,7 +152,7 @@ export default function PropellLandingPage() {
               </p>
 
               <img
-                src="/assets/review-terms.png"
+                src="assets/review-terms.png"
                 alt="Review Terms"
                 className="mt-8 w-full max-w-sm rounded-[28px] border border-[#E7E0D2] shadow-lg"
               />
@@ -173,7 +173,7 @@ export default function PropellLandingPage() {
               </p>
 
               <img
-                src="/assets/payment-setup.png"
+                src="assets/payment-setup.png"
                 alt="Payment Setup"
                 className="mt-8 w-full max-w-sm rounded-[28px] border border-[#E7E0D2] shadow-lg"
               />
@@ -277,7 +277,7 @@ export default function PropellLandingPage() {
 
           <div className="mt-10">
             <a
-              href="mailto:hello@propell.finance"
+              href="mailto:propell.fin@gmail.com"
               className="inline-flex rounded-2xl bg-white px-8 py-4 text-sm font-semibold text-[#172B4D] transition hover:opacity-90"
             >
               Contact Propell
